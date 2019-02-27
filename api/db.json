@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "sdfsfas",
+      "description": "sdfsdfsdaf",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "another stramm",
+      "id": 2
+    },
+    {
+      "title": "Changed",
+      "description": "Changed Description",
+      "id": 5
+    }
+  ]
+}
